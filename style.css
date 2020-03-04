@@ -1,0 +1,340 @@
+.alex1{
+	height: 12vh;
+	padding-left: 200px;
+}
+.alex2{
+	height: 100px;
+	width: 120px;
+	float: left;
+}
+.alex3{
+	font-size: 50px;
+	float: left;
+	margin: 0px;
+	margin-top: 20px;
+	font-family: 'Lato', sans-serif;
+}
+body{
+	margin: 0;
+}
+.dima-main{
+	height: 88vh;
+	background-image: url(https://image.freepik.com/free-photo/_8353-6963.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	object-fit: cover;
+}
+.dima1{
+	height: 88vh;
+	background-color: #00c8ff22;
+}
+.dima2{
+	height: 44vh;
+	padding-top: 150px;
+}
+.dima3{
+	cursor: default;
+	text-align: center;
+	font-size: 95px;
+	color: #ffffff;
+	clear: both;
+}
+.dima4{
+	width: 36vw;
+	height: 10vh;
+	border-top: 4px solid #0084ff;
+	margin: auto;
+	margin-top: 20px;
+	padding: 40px 10px 0 10px;
+	cursor: default;
+	text-align: center;
+	font-size: 20px;
+	color: #ffffff;
+}
+.dima-button-block{
+	width: 100vw;
+}
+.dima-button {
+	background-color: #0084ff;
+	border: none;
+  	color: white;
+ 	padding: 16px 32px;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+.dima-button1 {
+    background-image: none; 
+	background: transparent;
+	background-color: transparent;
+    color: white; 
+    border: 2px solid #0084ff;
+}
+.dima-button1:hover {
+    background-color: #0084ff;
+    color: black;
+}
+.dima5{
+	width: 100vw;
+}
+.dima6{
+	width: 70px;
+	height: 30px;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+	padding-top: 220px;
+	cursor: pointer;
+	filter: invert(1);
+}
+.Ilyamain{
+		height: 500px;
+		background-color: #f7f8fa;
+	}
+	h1{
+		font-size: 50px;
+        margin: 0;
+    
+
+	}
+    .ilyaheader{
+    	margin: auto;
+    	width: 550px;
+    	height: 75px;
+    	color: #585c60;
+    	text-align: center;
+    }
+    .ilyatext{
+    	margin: auto
+    	width 250px;
+    	height: 200px;
+    	text-align: center; 
+    	color: #b0b1b3;
+    	font-family: 'Pacifico', sans-serif;
+    	padding-left:250px;
+    	padding-right: 250px;
+    	font-size: 25px;
+    }
+   .alla1{
+height: 200px;
+width: 810px;
+background-color: white;
+margin: auto;
+position: relative;
+}
+.alla2-card{
+height: 200px;
+width: 250px;
+background-color: white;
+float: left;
+margin: auto;
+margin-right: 10px;
+margin-left: 10px;
+}
+.div-img1{
+height: 70px;
+width: 70px;
+background-color: #48baff;
+margin-top: 70px;
+margin-left: 115px;
+margin: auto;
+}
+.img{
+height: 40px;
+width: 40px;
+margin-top: 15px;
+margin-left:15px;
+position: relative;
+}
+*{
+font-family: 'Lato', sans-serif;
+}
+h1{
+text-align: center;
+font-weight: 4;
+font-size: 17px;
+}
+p{
+	text-align: center;
+	font-size: 12px;
+	color: #bebfc1;
+}
+.photo{
+	width: 100vw;
+	height: 100vh;
+	background-image: url(https://pic.xenomorph.ru/2012-01/1327557367_09.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.poverh{
+	width: 100vw;
+	height: 100vh;
+	background-color: #2c374b95;
+}
+.swu{
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-size: 50px;
+	color: white;
+	padding: 45px 45px 5px 45px;
+	font-family: 'Lato', sans-serif;
+}
+.weq{
+	text-align: center;
+	padding:0px 0px 40px 0px;
+	color:#848080;
+	font-size: 21px;
+}
+.full_name1{
+	width: 500px;
+	height: 45px;
+	background-color: none;
+	margin: auto;
+	border: 1px solid #5e697b;
+}
+.fullname1{
+	width: 100%;
+	padding: 15px;
+	border: none;
+	background-color: transparent;
+	outline: none;
+}
+.eadress{
+	width: 500px;
+	height: 45px;
+	background-color: none;
+	margin: auto;
+	border: 1px solid #5e697b;
+	margin-top: 5px;
+}
+.Emailadress{
+	width:100%;
+	background-color: transparent;
+	outline: none;
+	padding: 15px;
+	border: none;
+}
+.mess{
+	width: 500px;
+	height: 200px;
+	background-color: none;
+	margin:auto;
+	border: 1px solid #5e697b;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+.messen{
+	width: 100%;
+	background-color: transparent;
+	padding: 15px;
+	outline: none;
+	border: none;
+	resize: none;
+}
+.box{
+	float: left;
+}
+.sendd{
+	width: 100px;
+	height: 30px;
+	background-color: transparent;
+	border:1px solid #23607d;
+	float: right;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+	cursor: pointer;
+	transition: background 0.1s linear, color 0.1s linear;
+}
+.sendd:hover{
+	background-color: #23607d;
+	color: #fff;
+}
+.div-form{
+	width: 500px;
+	margin: auto;
+}
+.victor1 {
+	width: 100%;
+	padding: 75px 0 115px;
+	background-color: #f6f9f9;
+	text-align: center;
+}
+.v9 h3{
+	font-size: 41px;
+	line-height: 125%;
+	color: #2d3950;
+}
+.v9 p{
+	font-size: 15px;
+	line-height: 23px;
+	color: #909090;
+	margin: 15px 0 75px;
+}
+.v10:hover {
+	height: 100%;
+	background: rgba(44, 172, 247, 0.8);
+	transition: all;
+	transition-duration: 0.5s;
+}
+.victor2 {
+	display: inline-block;
+	background-size: cover;
+	margin: 0 15px 30px;
+}
+.v3, .v4, .v5, .v6, .v7, .v8 {
+	width: 360px;
+	height: 260px;
+}
+.v10 a{
+	position: outside;
+	color:#ffffff;
+	font-size: 18px;
+	border: 2px solid #ffffff;
+	height: 40px;
+	width: 40px;
+	display:inline-block;
+	padding-top: 8px;
+	margin: 30% 5px;
+	border-radius: 3px;
+}
+.v10 a:hover{
+	opacity: 1%;
+	color:#2d3950;
+	transition:all;
+	transition-duration:1s;
+	border:2px solid #2d3950;
+}
+.fa-search-plus:before {
+	content: "\f00e";
+}
+.fa-link:before {
+	content: "\f0c1";
+}
+
+.v3 {
+	background-image: url(https://images.wallpaperscraft.ru/image/velosiped_ulica_trotuar_avtomobili_stoyanka_57304_1600x1200.jpg);
+}
+.v4 {
+	background-image: url(https://avatars.mds.yandex.net/get-pdb/2812516/9676b0f4-c896-46e0-9611-62cec0859561/s1200);
+}
+.v5 {
+	background-image: url(https://www.tv3.lt/Uploads/UArticles/leadPhotos/a6/6e/a0/1d/a66ea01dafa131db8d22ca733ed77958.jpg);
+}
+.v6 {
+	background-image: url(http://www.topoboi.com/pic/201410/2880x1800/topoboi.com-47626.jpg);
+}
+.v7 {
+	background-image: url(https://f.vividscreen.info/soft/2c2e3e5b581ac14d7c571173c3835c3d/Bicycle-1600x1280.jpg);
+}
+.v8 {
+	background-image: url(https://images.aif.ru/011/581/d1e2e262a3afff6b8b5d45d451bd21b0.jpg);
+}
